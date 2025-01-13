@@ -4,7 +4,8 @@ import json
 def get_logs():
     #First I will define the log command to fetch my logs
     command = [
-        "log", "show",
+        #adding sudo as the logs are not parsing
+        "sudo", "log", "show",
         "--predicate", '(eventType == "logEvent" && (messageType == "Error" || messageType == "Fault"))', 
         "--style", "json",
         "--last", "1h" #I will modify the time frame as needed
