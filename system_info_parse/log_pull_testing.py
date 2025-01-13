@@ -1,30 +1,49 @@
 import subprocess
 import json
+import re
 
 def get_logs():
     #First I will define the log command to fetch my logs
     command = [
         #adding sudo as the logs are not parsing
-        "sudo", "log", "show",
-        "--predicate", '(eventType == "logEvent" && (messageType == "Error" || messageType == "Fault"))', 
-        "--style", "json",
-        "--last", "1h" #I will modify the time frame as needed
+        #"sudo", #got rid of sudo and still successfully pulled logs
+        "log", "show",
+        "--style", "syslog",
+        "--last", "10m" #I will modify the time frame as needed
     ]
+    #Matching logs based on logs show output on my system
+    pattern = re.compile(r'(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\.\d+[-+]\d{4}).*?\s(Error|Fault|Critical)\s+(.*?)$')
+
 
     try:
         result = subprocess.run(command, capture_output=True, text=True, check=True)
 
-        log_entries = [json.loads(line) for line in result.stdout.strip().split('\n') if line]
+        log_entries = []
 
-        with open('critical_logs.json', 'w') as f:
-            json.dump(log_entries, f, indent=4)
+        # Iterating over each line and search for matching log entries
+        for line in result.stdout.splitlines():
+            match = pattern.search(line)
+            if match:
+                timestamp, severity, message = match.groups()
+                log_entries.append({
+                    "timestamp": timestamp,
+                    "severity": severity,
+                    "message": message.strip()
+                })
 
-        print("Critical logs have been saved to 'critical_logs.json'.")
-
+        #Checking if any logs were found as I had this problem previously
+        if log_entries:
+            # Savinf to JSON for later use
+            with open('critical_logs.json', 'w') as f:
+                json.dump(log_entries, f, indent=4)
+            
+            print("Critical logs have been saved to 'critical_logs.json'.")
+        else:
+            print("No critical logs found.")
+    
     except subprocess.CalledProcessError as e:
         print(f"Error executing log command: {e}")
-        
-    except json.JSONDecodeError as e:
-        print(f"Error parsing JSON output: {e}")
+    except Exception as e:
+        print(f"Unexpected error: {e}")
 
 get_logs()
