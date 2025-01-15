@@ -1,6 +1,7 @@
 import subprocess
 import json
 import re
+import time
 
 def get_logs():
     #First I will define the log command to fetch my logs
@@ -46,4 +47,15 @@ def get_logs():
     except Exception as e:
         print(f"Unexpected error: {e}")
 
-get_logs()
+def start_periodic_logging(interval=60):
+    """Run get_logs() every 'interval' seconds."""
+    try:
+        while True:
+            print("\n[INFO] Fetching system logs...")
+            get_logs()
+            print(f"[INFO] Waiting {interval} seconds before the next check...")
+            time.sleep(interval)  #Argument that will depict what intervals we want to update the log 
+    except KeyboardInterrupt:
+        print("\n[INFO] Log monitoring stopped by user.")
+
+start_periodic_logging(10)
