@@ -60,9 +60,3 @@ try:
 
 except KeyboardInterrupt:
     print("\nExiting...")
-
-# Dont need this section anymore as we will have live info on CPU and RAM usage
-#ram info 
-# print(f"Total RAM: {sys_total_ram}GB")
-# #Cpu usuge 
-# print(f"CPU usage: {sys_cpu_usage}")
