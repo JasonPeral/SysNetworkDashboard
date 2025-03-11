@@ -1,0 +1,1547 @@
+[
+    {
+        "timestamp": "2025-03-11 02:18:48.135669-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:18:48.135769-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:18:48.209137-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:18:48.209193-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:18:48.210935-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:18:48.211067-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:18:48.211397-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:18:48.211451-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:18:48.216985-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:18:48.217114-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:18:48.219701-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:18:48.219826-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:18:48.222988-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:18:48.223161-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:06.005126-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:06.005341-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:06.528936-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:06.529115-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:16.600176-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:16.600337-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:29.393521-0400",
+        "severity": "Error",
+        "message": "attempting to modify subscription with identifier <private> without first unsubscribing"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:48.278251-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:48.278346-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:48.334086-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:48.334133-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:48.336472-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:48.336519-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:48.338297-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:48.338427-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:48.345215-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:48.345380-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:48.348842-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:48.348976-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:48.352746-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:19:48.352976-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:20:48.413552-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:20:48.413635-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:20:48.464506-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:20:48.464552-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:20:48.466675-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:20:48.466719-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:20:48.467235-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:20:48.467364-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:20:48.473658-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:20:48.473836-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:20:48.478229-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:20:48.478459-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:20:48.482733-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:20:48.482896-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:21:14.434141-0400",
+        "severity": "Error",
+        "message": "Domain=NSPOSIXErrorDomain Code=113 \"Unknown error: 113\""
+    },
+    {
+        "timestamp": "2025-03-11 02:21:14.434961-0400",
+        "severity": "Error",
+        "message": "Domain=NSPOSIXErrorDomain Code=113 \"Unknown error: 113\""
+    },
+    {
+        "timestamp": "2025-03-11 02:21:14.435377-0400",
+        "severity": "Error",
+        "message": "Domain=NSPOSIXErrorDomain Code=113 \"Unknown error: 113\""
+    },
+    {
+        "timestamp": "2025-03-11 02:21:14.436238-0400",
+        "severity": "Error",
+        "message": "Domain=NSPOSIXErrorDomain Code=113 \"Unknown error: 113\""
+    },
+    {
+        "timestamp": "2025-03-11 02:21:14.436607-0400",
+        "severity": "Error",
+        "message": "Domain=NSPOSIXErrorDomain Code=113 \"Unknown error: 113\""
+    },
+    {
+        "timestamp": "2025-03-11 02:21:14.436931-0400",
+        "severity": "Error",
+        "message": "Domain=NSPOSIXErrorDomain Code=113 \"Unknown error: 113\""
+    },
+    {
+        "timestamp": "2025-03-11 02:21:14.437225-0400",
+        "severity": "Error",
+        "message": "Domain=NSPOSIXErrorDomain Code=113 \"Unknown error: 113\""
+    },
+    {
+        "timestamp": "2025-03-11 02:21:14.437574-0400",
+        "severity": "Error",
+        "message": "Domain=NSPOSIXErrorDomain Code=113 \"Unknown error: 113\""
+    },
+    {
+        "timestamp": "2025-03-11 02:21:48.545900-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:21:48.545997-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:21:48.596926-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:21:48.596973-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:21:48.598839-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:21:48.598885-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:21:48.599233-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:21:48.599385-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:21:48.605146-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:21:48.605277-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:21:48.608559-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:21:48.608753-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:21:48.612946-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:21:48.613139-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:03.912536-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:03.912673-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:03.982245-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:03.982540-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:03.992513-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:03.992891-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.245307-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.245440-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.251988-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.252124-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.262564-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.262640-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.267718-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.267795-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.627993-0400",
+        "severity": "Error",
+        "message": "Domain=CNErrorDomain Code=1008 \"Account Not Yet Synced\" UserInfo={NSLocalizedDescription=Account Not Yet Synced, NSLocalizedFailureReason=This account has not finished syncing with the server. The data should be considered incomplete.}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.644335-0400",
+        "severity": "Error",
+        "message": "Domain=CNErrorDomain Code=1008 UserInfo={NSLocalizedDescription=<private>, NSLocalizedFailureReason=<private>}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.646601-0400",
+        "severity": "Error",
+        "message": "Domain=CNErrorDomain Code=1008 \"Account Not Yet Synced\" UserInfo={NSLocalizedDescription=Account Not Yet Synced, NSLocalizedFailureReason=This account has not finished syncing with the server. The data should be considered incomplete.}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.647810-0400",
+        "severity": "Error",
+        "message": "Domain=CNErrorDomain Code=1008 UserInfo={NSLocalizedDescription=<private>, NSLocalizedFailureReason=<private>}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.687378-0400",
+        "severity": "Error",
+        "message": "Domain=NSCocoaErrorDomain Code=4099 UserInfo={NSDebugDescription=<private>}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.724812-0400",
+        "severity": "Error",
+        "message": "Domain=com.apple.accounts Code=7 \"(null)\""
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.963729-0400",
+        "severity": "Error",
+        "message": "Domain=CNErrorDomain Code=1008 \"Account Not Yet Synced\" UserInfo={NSLocalizedDescription=Account Not Yet Synced, NSLocalizedFailureReason=This account has not finished syncing with the server. The data should be considered incomplete.}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.965686-0400",
+        "severity": "Error",
+        "message": "Domain=CNErrorDomain Code=1008 UserInfo={NSLocalizedDescription=<private>, NSLocalizedFailureReason=<private>}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.969112-0400",
+        "severity": "Error",
+        "message": "Domain=CNErrorDomain Code=1008 \"Account Not Yet Synced\" UserInfo={NSLocalizedDescription=Account Not Yet Synced, NSLocalizedFailureReason=This account has not finished syncing with the server. The data should be considered incomplete.}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.970460-0400",
+        "severity": "Error",
+        "message": "Domain=CNErrorDomain Code=1008 UserInfo={NSLocalizedDescription=<private>, NSLocalizedFailureReason=<private>}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.972710-0400",
+        "severity": "Error",
+        "message": "Domain=CNErrorDomain Code=1008 \"Account Not Yet Synced\" UserInfo={NSLocalizedDescription=Account Not Yet Synced, NSLocalizedFailureReason=This account has not finished syncing with the server. The data should be considered incomplete.}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:30.974918-0400",
+        "severity": "Error",
+        "message": "Domain=CNErrorDomain Code=1008 UserInfo={NSLocalizedDescription=<private>, NSLocalizedFailureReason=<private>}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:35.364684-0400",
+        "severity": "Error",
+        "message": "Domain=NSCocoaErrorDomain Code=260 UserInfo={NSFilePath=<private>, NSURL=<private>, NSUnderlyingError=0x7f7047f60 {Error Domain=NSPOSIXErrorDomain Code=2 \"No such file or directory\"}}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:35.789505-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:35.789660-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:35.798007-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:35.798150-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:35.809051-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:35.809351-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:35.817877-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:35.818151-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:35.834031-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:35.834327-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:35.842921-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:35.843141-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:35.856373-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:35.856628-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:35.865607-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:35.865908-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:35.876033-0400",
+        "severity": "Error",
+        "message": "getting defaultTimedAlarmOffset: Error Domain=EKCADErrorDomain Code=1013 UserInfo={NSLocalizedDescription=<private>}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:48.685311-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:48.685367-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:48.741667-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:48.741714-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:48.744448-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:48.744494-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:48.749804-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:48.749933-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:48.756610-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:48.756807-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:48.760218-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:48.760360-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:48.763517-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:22:48.763700-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.000539-0400",
+        "severity": "Error",
+        "message": "getting Application State for <private>: <private>, 3"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.001056-0400",
+        "severity": "Error",
+        "message": "getting Application State for <private>: <private>, 3"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.002697-0400",
+        "severity": "Error",
+        "message": "getting Application State for <private>: <private>, 3"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.003059-0400",
+        "severity": "Error",
+        "message": "getting Application State for <private>: <private>, 3"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.018419-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.018536-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.020081-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.020163-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.065056-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.065110-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.066639-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.066675-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.072139-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.072175-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.072618-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.072651-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.074601-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.074642-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.075050-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.075080-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.077358-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.077391-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.077799-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.077833-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.080590-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.080619-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.080978-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.081011-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.102639-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.102668-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.104342-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.104369-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.104717-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.104743-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.106174-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.106200-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.125670-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.125696-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.127482-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.127507-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.149613-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.149640-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.156602-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:25.156627-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:44.847862-0400",
+        "severity": "Error",
+        "message": "Domain=SQLITE Code=14 UserInfo={NSLocalizedDescription=<private>}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:44.848179-0400",
+        "severity": "Error",
+        "message": "Domain=SQLITE Code=14 UserInfo={NSLocalizedDescription=<private>}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:44.848676-0400",
+        "severity": "Error",
+        "message": "Domain=SQLITE Code=14 UserInfo={NSLocalizedDescription=<private>}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:44.848960-0400",
+        "severity": "Error",
+        "message": "Domain=SQLITE Code=14 UserInfo={NSLocalizedDescription=<private>}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:44.854529-0400",
+        "severity": "Error",
+        "message": "Domain=SQLITE Code=14 UserInfo={NSLocalizedDescription=<private>}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:48.800683-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:48.800830-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:48.859879-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:48.859943-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:48.862437-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:48.862504-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:48.862764-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:48.863328-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:48.870340-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:48.870537-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:48.874718-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:48.874871-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:48.878564-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:23:48.878728-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:06.712489-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:06.712674-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:15.171055-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:15.171262-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:17.371401-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:17.371622-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:48.934225-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:48.934334-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:48.991749-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:48.991801-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:48.993619-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:48.993676-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:48.993720-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:48.993849-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:48.999571-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:48.999699-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:49.003436-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:49.003636-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:49.007603-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:49.007756-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:24:56.374186-0400",
+        "severity": "Error",
+        "message": "Domain=WPErrorDomain Code=28 UserInfo={NSLocalizedDescription=<private>}"
+    },
+    {
+        "timestamp": "2025-03-11 02:25:49.072332-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:25:49.072427-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:25:49.126262-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:25:49.126315-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:25:49.129052-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:25:49.129099-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:25:49.130811-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:25:49.131070-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:25:49.138586-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:25:49.138744-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:25:49.142617-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:25:49.142775-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:25:49.146946-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:25:49.147090-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:26:03.646772-0400",
+        "severity": "Error",
+        "message": "Domain=NSPOSIXErrorDomain Code=113 \"Unknown error: 113\""
+    },
+    {
+        "timestamp": "2025-03-11 02:26:03.647571-0400",
+        "severity": "Error",
+        "message": "Domain=NSPOSIXErrorDomain Code=113 \"Unknown error: 113\""
+    },
+    {
+        "timestamp": "2025-03-11 02:26:03.648052-0400",
+        "severity": "Error",
+        "message": "Domain=NSPOSIXErrorDomain Code=113 \"Unknown error: 113\""
+    },
+    {
+        "timestamp": "2025-03-11 02:26:03.649020-0400",
+        "severity": "Error",
+        "message": "Domain=NSPOSIXErrorDomain Code=113 \"Unknown error: 113\""
+    },
+    {
+        "timestamp": "2025-03-11 02:26:03.649389-0400",
+        "severity": "Error",
+        "message": "Domain=NSPOSIXErrorDomain Code=113 \"Unknown error: 113\""
+    },
+    {
+        "timestamp": "2025-03-11 02:26:03.649747-0400",
+        "severity": "Error",
+        "message": "Domain=NSPOSIXErrorDomain Code=113 \"Unknown error: 113\""
+    },
+    {
+        "timestamp": "2025-03-11 02:26:03.650093-0400",
+        "severity": "Error",
+        "message": "Domain=NSPOSIXErrorDomain Code=113 \"Unknown error: 113\""
+    },
+    {
+        "timestamp": "2025-03-11 02:26:03.650486-0400",
+        "severity": "Error",
+        "message": "Domain=NSPOSIXErrorDomain Code=113 \"Unknown error: 113\""
+    },
+    {
+        "timestamp": "2025-03-11 02:26:49.192281-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:26:49.192377-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:26:49.244999-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:26:49.245049-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:26:49.247744-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:26:49.247792-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:26:49.248170-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:26:49.248303-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:26:49.258657-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:26:49.258854-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:26:49.262667-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:26:49.262826-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:26:49.266245-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:26:49.266426-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:27:49.327290-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:27:49.327503-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:27:49.381018-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:27:49.381068-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:27:49.382839-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:27:49.382886-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:27:49.384612-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:27:49.384750-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:27:49.397773-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:27:49.398056-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:27:49.403628-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:27:49.403823-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:27:49.408653-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:27:49.408782-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:13.532117-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:13.532381-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.125626-0400",
+        "severity": "Error",
+        "message": "getting Application State for <private>: <private>, 3"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.126559-0400",
+        "severity": "Error",
+        "message": "getting Application State for <private>: <private>, 3"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.128484-0400",
+        "severity": "Error",
+        "message": "getting Application State for <private>: <private>, 3"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.128951-0400",
+        "severity": "Error",
+        "message": "getting Application State for <private>: <private>, 3"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.142064-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.142141-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.143363-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.143431-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.170830-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.170901-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.172796-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.172845-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.180052-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.180098-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.180718-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.180758-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.183180-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.183225-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.183726-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.183765-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.187186-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.187225-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.187713-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.187750-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.191255-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.191299-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.191843-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.191877-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.205314-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.205346-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.206973-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.207003-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.207383-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.207419-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.208984-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.209013-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.219513-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.219539-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.221337-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.221363-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.237870-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.238048-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.249273-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-67808 \"RSA signature verification failed, no match\" UserInfo={numberOfErrorsDeep=0, NSDescription=RSA signature verification failed, no match}"
+    },
+    {
+        "timestamp": "2025-03-11 02:28:25.249428-0400",
+        "severity": "Error",
+        "message": "Domain=NSOSStatusErrorDomain Code=-50 \"rsa_pub_crypt failed, ccerr=-7\" (paramErr: error in user parameter list) UserInfo={numberOfErrorsDeep=0, NSDescription=rsa_pub_crypt failed, ccerr=-7}"
+    }
+]
