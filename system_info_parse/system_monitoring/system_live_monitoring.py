@@ -1,6 +1,6 @@
 import psutil
 import time
-from system_monitoring.utils import clear_screen  # Utility function for screen clearing
+from utils import clear_screen  # Utility function for screen clearing
 
 class LiveMonitor:
     """Class for monitoring live system performance (CPU & RAM usage)."""

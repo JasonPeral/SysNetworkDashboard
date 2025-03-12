@@ -1,7 +1,7 @@
 # main.py
-from system_monitoring.system_monitoring_static import StaticSystemMonitor
-from system_monitoring.system_live_monitoring import LiveMonitor
-from system_monitoring.log_processor_new import LogMonitor
+from system_monitoring_static import StaticSystemMonitor
+from system_live_monitoring import LiveMonitor
+from log_processor_new import LogMonitor
 import threading
 
 def main():
